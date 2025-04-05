@@ -1,0 +1,14 @@
+{
+  "id": "item_123",
+  "name": "Sample Item",
+  "tags": [
+    "A",
+    "B",
+    "C"
+  ],
+  "metadata": {
+    "created": "2024-01-01",
+    "updated": "2024-03-01",
+    "author": "Alice"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "item_123",
+  "name": "Updated Item",
+  "tags": [
+    "A",
+    "C",
+    "D"
+  ],
+  "metadata": {
+    "created": "2024-01-01",
+    "updated": "2024-04-01",
+    "editor": "Bob"
+  },
+  "status": "active"
+}
